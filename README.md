@@ -1,4 +1,7 @@
-Hi, i'm **Fabio Mahardika Putra Juan**. I'm a Junior School Student, my hobby is doing Gamer related stuff.
-I always do on the desktop like browsing, entertainment apart from that is the Video Editor (Software Adobe After Effects and Alight Motion).
+Hi, my name is **Fabio Mahardika Putra Juan**, and my hobby is video games.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Fab1o0107&show_icons=true&title_color=fff&icon_color=2c84de&text_color=85CD8C&bg_color=132C16)
+In front of the computer, namely programmers and video editing.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fab1o0107&show_icons=true&theme=onedark&count_private=true)](https://github.com/Fab1o0107)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fab1o0107&layout=compact&theme=onedark)](https://github.com/Fab1o0107)
